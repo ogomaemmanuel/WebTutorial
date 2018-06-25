@@ -1,1 +1,1 @@
-console.log("rsdfghjnbgvfrtyihkhf")
+// console.log("Webpack watch test ")

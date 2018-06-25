@@ -1,0 +1,1 @@
+webpackHotUpdate(0,[,function(e,o){console.log("EMMANUEL egeg")}]);
